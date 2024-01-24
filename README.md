@@ -1,7 +1,7 @@
 
-Olá eu sou Bianca Santiago, estudante de desenvolvimento de sistemas.
+Hello, I'm Bianca Santiago, systems development student.
 
- - Atualmente trabalho com logística
+ - I currently work with logistics.
 
 
 <div> 
